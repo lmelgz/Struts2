@@ -9,5 +9,6 @@
 </head>
 <body>
 	Hello World,<s:property value="name"/>
+	Hello,LGZ!
 </body>
 </html>
