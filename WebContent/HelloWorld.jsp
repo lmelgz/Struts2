@@ -10,5 +10,6 @@
 <body>
 	Hello World,<s:property value="name"/>
 	Hi,LGZ!
+	Hello,LGZ!
 </body>
 </html>
